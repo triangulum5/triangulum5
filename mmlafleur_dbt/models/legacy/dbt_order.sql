@@ -1,4 +1,4 @@
-{{ config(materialized='view') }}
+--{{ config(materialized='view') }}
 
 WITH
   gift_card_discount_list AS (

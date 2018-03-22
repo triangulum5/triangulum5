@@ -1,4 +1,4 @@
-{{ config(materialized='view') }}
+--{{ config(materialized='view') }}
 
 SELECT
   i.item_id AS item_id,
