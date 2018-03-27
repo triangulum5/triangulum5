@@ -1,1 +1,0 @@
-# triangulum5 capricornus
